@@ -11,7 +11,7 @@ const Hero = () => {
           <div className="column is-half has-text-centered ">
             <div className="container">
               <h1 className="title is-size-1 has-text-weight-bold">
-                DOM IS AWESOME
+                REACT IS AWESOME
               </h1>
               <button className="button is-info is-medium">Get Started</button>
             </div>
